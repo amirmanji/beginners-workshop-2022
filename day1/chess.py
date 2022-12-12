@@ -111,7 +111,7 @@ if __name__ == "__main__" :
     info = p.run(
         chess(
             "https://api.chess.com/pub/",
-            ['hansontwitch', 'magnuscarlsen','vincentkeymer', 'dommarajugukesh', 'rpragchess', 'firouzja2003','ghandeevam2003', 'arjunerigaisi2003','chesswarrior7197','nihalsarin','jefferyx','xiong-dal','joppie2','andreikka'],
+            ['hansontwitch', 'magnuscarlsen','vincentkeymer', 'dommarajugukesh', 'rpragchess', 'firouzja2003','ghandeevam2003', 'arjunerigaisi2003','chesswarrior7197','nihalsarin','jefferyx','xiong-dal','joppie2','andreikka','amircantdance'],
             start_month='2022/07',
             end_month='2022/09'
         )
